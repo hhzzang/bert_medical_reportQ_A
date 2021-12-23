@@ -1,5 +1,5 @@
 ### Hi there 👋
-READ ME
+Before train & test, you should donwload the radam_epoch_6 model.h5 in our drive
 
 - model : bert base
 - input : if len(number of character) > 511 cut by sentence below 511 and each cut sample is all predicted
